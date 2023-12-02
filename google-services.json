@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "71811716171",
+    "firebase_url": "https://inventorymanagement-cb5a8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "inventorymanagement-cb5a8",
+    "storage_bucket": "inventorymanagement-cb5a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71811716171:android:3424ba579ce0dd057fa9ce",
+        "android_client_info": {
+          "package_name": "com.example.inventorymanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZN99PCLPLvUDwHOFNaF2fKfKv92bvFU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
